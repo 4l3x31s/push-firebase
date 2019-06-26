@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>10709726468-jc5b2uoemficd0citl3pmf5t5g2vsm65.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.10709726468-jc5b2uoemficd0citl3pmf5t5g2vsm65</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZ0SUDrbv37SfLNd5Uh073LS-v5A2nu1w</string>
+	<key>GCM_SENDER_ID</key>
+	<string>10709726468</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.yvaganet.ionic</string>
+	<key>PROJECT_ID</key>
+	<string>test-mav-2c5fb</string>
+	<key>STORAGE_BUCKET</key>
+	<string>test-mav-2c5fb.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:10709726468:ios:d45a8930a296406d</string>
+	<key>DATABASE_URL</key>
+	<string>https://test-mav-2c5fb.firebaseio.com</string>
+</dict>
+</plist>
